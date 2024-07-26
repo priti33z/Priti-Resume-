@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <h1>Priti Zaware</h1>
+    <img src="c:\Users\Tushar Zaware\OneDrive\Pictures\WhatsApp Image 2023-06-08 at 21.05.42.jpg"height =100px weidth="100px">
+    <h2 >Education</h2>
+    <ul>
+        <li><b>10th Class </b>(79.85)</li>
+        <li><b>12th Class</b>(86)</li>
+        <li><b>Bachelor in Engineering (ENTC)</b>(7.20 cgpa)</li>
+    </ul>
+    <h2>Projects</h2>
+    <ul>
+        <li>Digital College bell using arduino uno </li>
+        <li>resume webpage using HTML</li>
+        <li>Spotify webpage using HTML,CSS</li>
+    </ul>
+    
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML,CSS</li>
+        <LI>JAVA,C++</LI>
+
+    </ul>
+    <h2>Languages known</h2>
+    <ul>
+        <li>English,Marathi,Hindi</li>
+    </ul>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>painting</li>
+        <li>rangoli making</li>
+        <li>listning music</li>
+    </ul>
+    <h2>Contact Me</h2>
+    <ul>
+        <li><b>Email:</b>zawarepriti050@gmail.com</li>
+        <li><b>Contact no.:</b>+91 7588262404</li>
+        <li><a href="https://www.linkedin.com/in/priti-zaware-585130249">linkedin</a></li>
+        <li><a href="https://github.com/priti33z/priti33z">Github</a></li>
+        
+    </ul>
+      
+</body>
+</html>
